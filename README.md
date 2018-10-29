@@ -17,7 +17,7 @@ Data
 The data contains in the 'creditcard.csv' file.
 
 As the file is too big to upload in the repository, to download the file please follow the link below:
-creditcard.csv.zip (https://www.kaggle.com/dalpozz/creditcardfraud/downloads/creditcardfraud.zip)
+creditcard.csv.zip (https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcard.csv/3)
 The above file is in .zip format. Please extract the file to get the .csv file out of it.
 
 Data Description:
@@ -27,4 +27,4 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 Given the class imbalance ratio, it's recommended measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
-The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection. More details on current and past projects on related topics are available on http://mlg.ulb.ac.be/BruFence and http://mlg.ulb.ac.be/ARTML .
+
